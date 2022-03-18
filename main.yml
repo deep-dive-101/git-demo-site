@@ -10,5 +10,7 @@
 
 - name: "Creating documentroot"  
 
+- name: "Creating php.ini file"
+
 - name: "Restarting Apache"
 
