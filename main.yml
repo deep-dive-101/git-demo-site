@@ -6,5 +6,7 @@
 
 - name: "Creating virtualhost"
 
+- name: "Creating documentroot"  
+
 - name: "Restarting Apache"
 
