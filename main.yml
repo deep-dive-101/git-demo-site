@@ -4,5 +4,7 @@
 
 - name: "Creating httpd.conf"
 
+- name: "Creating virtualhost"
+
 - name: "Restarting Apache"
 
