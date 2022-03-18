@@ -4,7 +4,7 @@
 
 - name: "Creating httpd.conf"
 
-- name: "Creating virtualhost"
+- name: "Creating virtualhost.conf"
 
 - name: "Creating documentroot"  
 
