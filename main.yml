@@ -2,4 +2,7 @@
 
 - name: "Installing Apache"
 
+- name: "Creating httpd.conf"
+
 - name: "Restarting Apache"
+
